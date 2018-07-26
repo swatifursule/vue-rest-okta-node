@@ -7,11 +7,13 @@ https://developer.okta.com/signup/
 Select Application tab and create new application and after creation, note down the clientid. Need to use clientid in server.js router/index.js.
 https://dev-322001.oktapreview.com/oauth2/default : issuer
 
-Start node server with : node ./src/server 
+<b>Start node server with </b>: node ./src/server 
 > A Vue.js project
 
 
-Start frontend with
+<b>Start frontend with:</b>
+
+
 npm install (make sure you installed all packages as mentioned in package.json, with npm install command)
 npm start
 
